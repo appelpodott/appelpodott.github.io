@@ -3,5 +3,5 @@ author: Appelpodott
   url:  # the author's homepage url
 
 navigation: # a collection of links to display in the masthead
-  - title: About
-    url: /about
+  - title: Readme
+    url: /readme
