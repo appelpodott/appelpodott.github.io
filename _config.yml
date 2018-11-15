@@ -1,7 +1,12 @@
 author: Appelpodott
   name: Blog
   url:  # the author's homepage url
+    
+    
+theme:              jekyll-theme-redux
+permalink:          pretty
+paginate:           5
 
-navigation: # a collection of links to display in the masthead
+navigation:
   - title: Readme
-    url: /readme
+url: /appelpodott.github.io/Readme
